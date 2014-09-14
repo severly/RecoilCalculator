@@ -1,0 +1,42 @@
+﻿<Window x:Class="RecoilCalculator.PopUps.NewProduct"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      Width="250" Height="170"
+	  Title="New Product">
+
+    <Grid Margin="0,10,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+
+        </Grid.RowDefinitions>
+        
+        <TextBox x:Name="productText" Grid.Row="0" Height="Auto" TextWrapping="Wrap" Text="Product" Width="110" 
+                     VerticalAlignment="Center" HorizontalAlignment="Center" GotFocus="TextGotFocus" />
+
+        <TextBox x:Name="massText" Grid.Row="1" Height="Auto" TextWrapping="Wrap" Text="Mass/Weight" Width="110" Margin="0,0,0,0"
+                     VerticalAlignment="Center" HorizontalAlignment="Center" GotFocus="TextGotFocus"/>
+
+        <ComboBox Name="ScaleBox" Grid.Row="1" SelectedIndex="0" Width="40" Margin="150,0,0,0"
+                      HorizontalAlignment="Center" />
+
+        <Button x:Name="AddBtn" Grid.Row="2" Click="Add_Click" 
+                    Style="{StaticResource buttonStyle}" Height="Auto" Width="115"
+                    HorizontalAlignment="Center" VerticalAlignment="Center" IsDefault="True">Add Product</Button>
+
+        <Button x:Name="CancelBtn" Grid.Row="3" Click="Cancel_Click"
+                    Style="{StaticResource buttonStyle}" Height="Auto" Width="115"
+                    HorizontalAlignment="Center" VerticalAlignment="Center" IsCancel="True">Cancel</Button>
+    </Grid>
+    
+    
+</Window>

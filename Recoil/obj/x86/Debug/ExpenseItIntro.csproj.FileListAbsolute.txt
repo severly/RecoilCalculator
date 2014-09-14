@@ -1,0 +1,15 @@
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\bin\Debug\ExpenseIt9.exe
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\bin\Debug\ExpenseIt9.pdb
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\ExpenseItHome.baml
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\ExpenseReportPage.baml
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\MainWindow.baml
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\App.baml
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\ExpenseItHome.g.cs
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\ExpenseReportPage.g.cs
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\MainWindow.g.cs
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\App.g.cs
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\ExpenseIt9_MarkupCompile.cache
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.g.resources
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.exe
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.pdb
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\ExpenseItIntro.csprojResolveAssemblyReference.cache

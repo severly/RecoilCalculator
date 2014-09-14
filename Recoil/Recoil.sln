@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecoilCalculator", "RecoilCalculator.csproj", "{04A305B4-D6A2-458B-817C-7B0AA88F7FCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9E25D831-779E-47F6-A0FD-D673468B1E75}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\11.0\EXTENSIONS\32HEJAFN.CWO\description.html = ..\..\..\..\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\11.0\EXTENSIONS\32HEJAFN.CWO\description.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|x86 = Debug|x86
+		DVD-5|x86 = DVD-5|x86
+		Release|x86 = Release|x86
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04A305B4-D6A2-458B-817C-7B0AA88F7FCA}.CD_ROM|x86.ActiveCfg = Release|x86
+		{04A305B4-D6A2-458B-817C-7B0AA88F7FCA}.CD_ROM|x86.Build.0 = Release|x86
+		{04A305B4-D6A2-458B-817C-7B0AA88F7FCA}.Debug|x86.ActiveCfg = Debug|x86
+		{04A305B4-D6A2-458B-817C-7B0AA88F7FCA}.Debug|x86.Build.0 = Debug|x86
+		{04A305B4-D6A2-458B-817C-7B0AA88F7FCA}.DVD-5|x86.ActiveCfg = Debug|x86
+		{04A305B4-D6A2-458B-817C-7B0AA88F7FCA}.DVD-5|x86.Build.0 = Debug|x86
+		{04A305B4-D6A2-458B-817C-7B0AA88F7FCA}.Release|x86.ActiveCfg = Release|x86
+		{04A305B4-D6A2-458B-817C-7B0AA88F7FCA}.Release|x86.Build.0 = Release|x86
+		{04A305B4-D6A2-458B-817C-7B0AA88F7FCA}.SingleImage|x86.ActiveCfg = Release|x86
+		{04A305B4-D6A2-458B-817C-7B0AA88F7FCA}.SingleImage|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

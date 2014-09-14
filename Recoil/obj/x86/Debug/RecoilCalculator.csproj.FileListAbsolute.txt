@@ -1,0 +1,242 @@
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\RecoilCalcHome.baml
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\RecoilCalcPage.baml
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\MainWindow.baml
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\App.baml
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\RecoilCalcHome.g.cs
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\RecoilCalcPage.g.cs
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\MainWindow.g.cs
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\App.g.cs
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\ExpenseIt9_MarkupCompile.cache
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.g.resources
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.exe
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.pdb
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\bin\Debug\ExpenseIt9.exe
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\bin\Debug\ExpenseIt9.pdb
+C:\Users\mspalmer\Desktop\Oh herro\Recoil\Recoil\obj\x86\Debug\RecoilCalculator.csprojResolveAssemblyReference.cache
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.exe
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.pdb
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\obj\x86\Debug\RecoilCalculator.csprojResolveAssemblyReference.cache
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\obj\x86\Debug\RecoilCalcHome.baml
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\obj\x86\Debug\RecoilCalcPage.baml
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\obj\x86\Debug\MainWindow.baml
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\obj\x86\Debug\App.baml
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\obj\x86\Debug\RecoilCalcHome.g.cs
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\obj\x86\Debug\RecoilCalcPage.g.cs
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\obj\x86\Debug\MainWindow.g.cs
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\obj\x86\Debug\App.g.cs
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\obj\x86\Debug\ExpenseIt9_MarkupCompile.cache
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.g.resources
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\bin\Debug\ExpenseIt9.exe
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\bin\Debug\ExpenseIt9.pdb
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\bin\Debug\System.Data.SQLite.dll
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\bin\Debug\System.Data.SQLite.xml
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\mspalmer\Desktop\Oh herro\UltiMeter\Recoil\Recoil\obj\x86\Debug\ExpenseIt9_Content.g.cs
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.exe
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.pdb
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\ExpenseIt9.exe
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\ExpenseIt9.pdb
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.dll
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.Xps.dll
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\System.Data.SQLite.dll
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.pdb
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.xml
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.Xps.xml
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\System.Data.SQLite.xml
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\RecoilCalculator.csprojResolveAssemblyReference.cache
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\RecoilCalcHome.baml
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\MainWindow.baml
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\App.baml
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\RecoilCalcHome.g.cs
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\MainWindow.g.cs
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\App.g.cs
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\ExpenseIt9_Content.g.cs
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\ExpenseIt9_MarkupCompile.cache
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.g.resources
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\RecoilPlotPage.baml
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\RecoilPlotPage.g.cs
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\MccDaq.dll
+C:\Users\mspalmer\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\MccDaq.xml
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.exe
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.pdb
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\RecoilCalculator.csprojResolveAssemblyReference.cache
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\RecoilCalcHome.baml
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\RecoilPlotPage.baml
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\MainWindow.baml
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\App.baml
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\RecoilCalcHome.g.cs
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\RecoilPlotPage.g.cs
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\MainWindow.g.cs
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\App.g.cs
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\ExpenseIt9_Content.g.cs
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\ExpenseIt9_MarkupCompile.cache
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.g.resources
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\ExpenseIt9.exe
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\ExpenseIt9.pdb
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.dll
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.Xps.dll
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\System.Data.SQLite.dll
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\MccDaq.xml
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.pdb
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.xml
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\OxyPlot.Xps.xml
+C:\Users\severly\Desktop\Recoil-2013-11-19 (1)\Recoil\Recoil\bin\Debug\System.Data.SQLite.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.exe
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.pdb
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\ExpenseIt9.exe
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\ExpenseIt9.pdb
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\MccDaq.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\OxyPlot.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\OxyPlot.Xps.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\System.Data.SQLite.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\MccDaq.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\OxyPlot.pdb
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\OxyPlot.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\OxyPlot.Xps.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\System.Data.SQLite.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\obj\x86\Debug\RecoilCalculator.csprojResolveAssemblyReference.cache
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\obj\x86\Debug\RecoilPlotPage.baml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\obj\x86\Debug\App.baml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\obj\x86\Debug\RecoilPlotPage.g.cs
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\obj\x86\Debug\App.g.cs
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\obj\x86\Debug\ExpenseIt9_Content.g.cs
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\obj\x86\Debug\ExpenseIt9_MarkupCompile.cache
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\obj\x86\Debug\ExpenseIt9.g.resources
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\OxyPlot.Pdf.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\PdfSharp.Charting.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\PdfSharp.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\MigraDoc.DocumentObjectModel.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\MigraDoc.Rendering.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\MigraDoc.RtfRendering.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\OxyPlot.Pdf.pdb
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\OxyPlot.Pdf.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\PdfSharp.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\bin\Debug\PdfSharp.Charting.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\obj\x86\Debug\PopUps\NewProduct.baml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\obj\x86\Debug\PopUps\NewProduct.g.cs
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\obj\x86\Debug\RecoilCalculator.PopUps.AboutBox.resources
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil\Recoil\obj\x86\Debug\RecoilCalculator.csproj.GenerateResource.Cache
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\obj\x86\Debug\ExpenseIt9.exe
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\obj\x86\Debug\ExpenseIt9.pdb
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\ExpenseIt9.exe.manifest
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\ExpenseIt9.application
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\ExpenseIt9.exe
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\ExpenseIt9.pdb
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\MccDaq.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\OxyPlot.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\OxyPlot.Pdf.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\OxyPlot.Xps.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\PdfSharp.Charting.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\PdfSharp.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\System.Data.SQLite.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\MccDaq.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\MigraDoc.DocumentObjectModel.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\MigraDoc.Rendering.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\MigraDoc.RtfRendering.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\OxyPlot.pdb
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\OxyPlot.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\OxyPlot.Pdf.pdb
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\OxyPlot.Pdf.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\OxyPlot.Xps.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\PdfSharp.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\PdfSharp.Charting.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\bin\Debug\System.Data.SQLite.xml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\obj\x86\Debug\RecoilCalculator.csprojResolveAssemblyReference.cache
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\obj\x86\Debug\PopUps\NewProduct.baml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\obj\x86\Debug\RecoilPlotPage.baml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\obj\x86\Debug\App.baml
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\obj\x86\Debug\PopUps\NewProduct.g.cs
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\obj\x86\Debug\RecoilPlotPage.g.cs
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\obj\x86\Debug\App.g.cs
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\obj\x86\Debug\ExpenseIt9_Content.g.cs
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\obj\x86\Debug\ExpenseIt9_MarkupCompile.cache
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\obj\x86\Debug\ExpenseIt9.g.resources
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\obj\x86\Debug\RecoilCalculator.PopUps.AboutBox.resources
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\obj\x86\Debug\RecoilCalculator.csproj.GenerateResource.Cache
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\obj\x86\Debug\ExpenseIt9.exe.manifest
+C:\Users\mspalmer\Desktop\RecoilNew\Recoil11_21\Recoil\obj\x86\Debug\ExpenseIt9.application
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\MccDaq.dll
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\OxyPlot.dll
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\OxyPlot.Pdf.dll
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\OxyPlot.Xps.dll
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\PdfSharp.Charting.dll
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\PdfSharp.dll
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\System.Data.SQLite.dll
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\MccDaq.xml
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\MigraDoc.DocumentObjectModel.xml
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\MigraDoc.Rendering.xml
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\MigraDoc.RtfRendering.xml
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\OxyPlot.pdb
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\OxyPlot.xml
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\OxyPlot.Pdf.pdb
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\OxyPlot.Pdf.xml
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\OxyPlot.Xps.xml
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\PdfSharp.xml
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\PdfSharp.Charting.xml
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\System.Data.SQLite.xml
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\obj\x86\Debug\RecoilCalculator.csprojResolveAssemblyReference.cache
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\obj\x86\Debug\PopUps\NewProduct.baml
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\obj\x86\Debug\RecoilPlotPage.baml
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\obj\x86\Debug\App.baml
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\obj\x86\Debug\PopUps\NewProduct.g.cs
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\obj\x86\Debug\RecoilPlotPage.g.cs
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\obj\x86\Debug\App.g.cs
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\obj\x86\Debug\RecoilCalculator.PopUps.AboutBox.resources
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\obj\x86\Debug\RecoilCalculator.csproj.GenerateResource.Cache
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\RecoilCalculator.exe.manifest
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\RecoilCalculator.application
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\RecoilCalculator.exe
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\bin\Debug\RecoilCalculator.pdb
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\obj\x86\Debug\RecoilCalculator_Content.g.cs
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\obj\x86\Debug\RecoilCalculator_MarkupCompile.cache
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\obj\x86\Debug\RecoilCalculator.g.resources
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\obj\x86\Debug\RecoilCalculator.exe.manifest
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\obj\x86\Debug\RecoilCalculator.application
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\obj\x86\Debug\RecoilCalculator.exe
+C:\Users\mspalmer\Desktop\Recoil11_21\Recoil\obj\x86\Debug\RecoilCalculator.pdb
